@@ -1,7 +1,7 @@
 # TLS Chat and Web Server with Mininet (Legacy)
 
 ## Overview
-This project simulates a secure network environment using TLS (Transport Layer Security) for both a chat server and a web server. It leverages Mininet to create a virtual network and uses certificates to secure communication between clients and servers. The key components include server and client scripts that perform SSL handshakes to ensure secure, authenticated sessions.
+This project simulates a secure network environment using TLS (Transport Layer Security) for both a chat server and a web server. It leverages Mininet to create a virtual network and uses certificates to secure communication between clients and servers. Key components include server and client scripts that perform SSL handshakes to ensure secure, authenticated sessions.
 
 ## Project Structure
 - `PA4_tls_chat_client_Team5.py`: Chat client that connects to the chat server using TLS.
